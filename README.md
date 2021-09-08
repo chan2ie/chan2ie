@@ -1,5 +1,7 @@
 ## Lee Chanhui___@chan2ie
 ### Passionate, creative, and challenging✨
+<img src="./profile.gif"/>
+
 > 🏫 Majoring Computer Science / Art & Technonlogy in Sogang Univ.<br>
 > 💖 Love to learn and create new things!
 
