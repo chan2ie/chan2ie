@@ -9,7 +9,7 @@
 - 2020.03 ~ 2021.03 Video editor / Channel manager [@mr.MP/Youtube](https://www.youtube.com/channel/UCQ_db0bwBvWJian998nzq4w)
 - 2020.09 ~ 2021.02 Intern (Software Developer) [@Oncosoft](http://oncosoft.io/)
 - 2019.09 ~ 2020.11 Visual director / Stage director/ Planning and promotion [@theglobularcluster](https://www.instagram.com/theglobularcluster/)
-- 2018.03 ~ 2020.02 Stage team / Promotion design [@sogangtheatre](https://www.instagram.com/sgtheatre_109/)
+- 2018.03 ~ 2020.02 Stage team / Promotion design [@theatre](https://www.instagram.com/sgtheatre_109/)
 - 2017.09 ~ 2020.02 President(2018) / Planning and promotion / Contents creator [@SGAEM](https://www.facebook.com/search/top?q=sgaem)
 
 #### Tech Stacks
