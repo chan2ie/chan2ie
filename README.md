@@ -7,7 +7,7 @@
 > 💖 Love to learn and create new things!
 
 #### Experiences
-- 2021.11 ~  Game Programmer [@MapleStoryKR](https://maplestory.nexon.com/)
+- 2021.11 ~  Game Programmer [@NEXON Korea](https://company.nexon.com/)
 - 2020.03 ~ 2021.03 Video editor / Channel manager [@mr.MP/Youtube](https://www.youtube.com/channel/UCQ_db0bwBvWJian998nzq4w)
 - 2020.09 ~ 2021.02 Intern (Software Developer) [@Oncosoft](http://oncosoft.io/)
 - 2019.09 ~ 2020.11 Visual director / Stage director/ Planning and promotion [@theglobularcluster](https://www.instagram.com/theglobularcluster/)
