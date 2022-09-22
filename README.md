@@ -32,10 +32,6 @@
 <p>
   <a href = "https://steamcommunity.com/id/jaxhanded/">
   <img src="https://img.shields.io/badge/Steam-000000?logo=Steam&logoColor=white"/></a>&nbsp
-   <a href = "https://www.behance.net/dlcksgml">
-  <img src="https://img.shields.io/badge/Behance-1769FF?logo=Behance&logoColor=white"/></a>&nbsp
-  <a href = "https://maple.gg/u/%EC%A7%B9%EB%9A%B1">
-  <img src="https://img.shields.io/badge/MapleStory-orange"/></a>&nbsp
 </p>
 <!--
 **chan2ie/chan2ie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
