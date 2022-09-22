@@ -2,10 +2,12 @@
 ### Passionate, creative, and challenging✨
 <img src="./profile.gif"/>
 
-> 🏫 Majoring Computer Science / Art & Technonlogy in Sogang Univ.<br>
+> 💻 Junior Developer 
+> 🏫 Majored Computer Science / Art & Technonlogy in Sogang Univ.<br>
 > 💖 Love to learn and create new things!
 
 #### Experiences
+- 2021.11 ~ current Game Programmer [@MapleStoryKR]
 - 2020.03 ~ 2021.03 Video editor / Channel manager [@mr.MP/Youtube](https://www.youtube.com/channel/UCQ_db0bwBvWJian998nzq4w)
 - 2020.09 ~ 2021.02 Intern (Software Developer) [@Oncosoft](http://oncosoft.io/)
 - 2019.09 ~ 2020.11 Visual director / Stage director/ Planning and promotion [@theglobularcluster](https://www.instagram.com/theglobularcluster/)
@@ -16,8 +18,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?logo=Cplusplus&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/p5.js-ED225D?logo=p5.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SQL-CC2927"/></a>&nbsp
 </p>
 
